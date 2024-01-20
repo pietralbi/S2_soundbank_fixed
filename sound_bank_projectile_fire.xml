@@ -1,0 +1,483 @@
+<sound_bank>
+	<sound_bank_event sound_event_name="unnamed_event_63">
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="gun_grenade_throw_land">
+		<maybe_gun_type>unknown21</maybe_gun_type>
+		<maybe_gun_type>unknown8</maybe_gun_type>
+		<maybe_shot_type>unknown24</maybe_shot_type>
+		<maybe_shot_type>unknown22</maybe_shot_type>
+		<maybe_shot_type>unknown23</maybe_shot_type>
+		<maybe_shot_type>unknown25</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9941">
+		<maybe_gun_type>unknown7</maybe_gun_type>
+		<maybe_shot_type>unknown14</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10302">
+		<maybe_gun_type>unknown7</maybe_gun_type>
+		<maybe_shot_type>unknown14</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9942">
+		<maybe_gun_type>unknown1</maybe_gun_type>
+		<maybe_shot_type>unknown14</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10263">
+		<maybe_gun_type>unknown1</maybe_gun_type>
+		<maybe_shot_type>unknown14</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9881">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown16</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10144">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown16</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9882">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown18</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10145">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown18</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9880">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown17</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10143">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown17</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9884">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown17</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10147">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown17</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9885">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown18</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10148">
+		<maybe_gun_type>unknown2</maybe_gun_type>
+		<maybe_shot_type>unknown18</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9943">
+		<maybe_gun_type>unknown3</maybe_gun_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10264">
+		<maybe_gun_type>unknown3</maybe_gun_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9895">
+		<maybe_gun_type>unknown9</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9897">
+		<maybe_gun_type>unknown9</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_shot_type>unknown32</maybe_shot_type>
+		<maybe_size>maybe_medium</maybe_size>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9896">
+		<maybe_gun_type>unknown9</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_shot_type>unknown32</maybe_shot_type>
+		<maybe_size>maybe_large</maybe_size>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10060">
+		<maybe_gun_type>unknown9</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10061">
+		<maybe_gun_type>unknown9</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_size>maybe_medium</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10062">
+		<maybe_gun_type>unknown9</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_size>maybe_large</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9886">
+		<maybe_gun_type>unknown4</maybe_gun_type>
+		<maybe_size>maybe_small</maybe_size>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9888">
+		<maybe_gun_type>unknown4</maybe_gun_type>
+		<maybe_size>maybe_medium</maybe_size>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9887">
+		<maybe_gun_type>unknown4</maybe_gun_type>
+		<maybe_size>maybe_large</maybe_size>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10063">
+		<maybe_gun_type>unknown4</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_shot_type>unknown32</maybe_shot_type>
+		<maybe_shot_type>unknown35</maybe_shot_type>
+		<maybe_shot_type>unknown34</maybe_shot_type>
+		<maybe_shot_type>unknown33</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10064">
+		<maybe_gun_type>unknown4</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_shot_type>unknown32</maybe_shot_type>
+		<maybe_shot_type>unknown35</maybe_shot_type>
+		<maybe_shot_type>unknown34</maybe_shot_type>
+		<maybe_shot_type>unknown33</maybe_shot_type>
+		<maybe_size>maybe_medium</maybe_size>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10065">
+		<maybe_gun_type>unknown4</maybe_gun_type>
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown37</maybe_shot_type>
+		<maybe_shot_type>unknown1</maybe_shot_type>
+		<maybe_shot_type>unknown8</maybe_shot_type>
+		<maybe_shot_type>unknown9</maybe_shot_type>
+		<maybe_shot_type>unknown29</maybe_shot_type>
+		<maybe_shot_type>unknown10</maybe_shot_type>
+		<maybe_shot_type>unknown4</maybe_shot_type>
+		<maybe_shot_type>unknown6</maybe_shot_type>
+		<maybe_shot_type>unknown7</maybe_shot_type>
+		<maybe_shot_type>unknown2</maybe_shot_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<maybe_shot_type>unknown5</maybe_shot_type>
+		<maybe_shot_type>unknown31</maybe_shot_type>
+		<maybe_shot_type>unknown28</maybe_shot_type>
+		<maybe_shot_type>unknown32</maybe_shot_type>
+		<maybe_shot_type>unknown35</maybe_shot_type>
+		<maybe_shot_type>unknown34</maybe_shot_type>
+		<maybe_shot_type>unknown33</maybe_shot_type>
+		<maybe_size>maybe_large</maybe_size>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9952">
+		<maybe_gun_type>unknown8</maybe_gun_type>
+		<maybe_shot_type>unknown26</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9898">
+		<maybe_gun_type>unknown10</maybe_gun_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10042">
+		<maybe_gun_type>unknown14</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10126">
+		<maybe_gun_type>unknown13</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9879">
+		<maybe_gun_type>unknown13</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9890">
+		<maybe_gun_type>unknown18</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9891">
+		<maybe_gun_type>unknown18</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_medium</maybe_size>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9892">
+		<maybe_gun_type>unknown18</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_large</maybe_size>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10128">
+		<maybe_gun_type>unknown18</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10129">
+		<maybe_gun_type>unknown18</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_medium</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10130">
+		<maybe_gun_type>unknown18</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_large</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9889">
+		<maybe_gun_type>unknown14</maybe_gun_type>
+		<maybe_gun_type>unknown15</maybe_gun_type>
+		<maybe_gun_type>unknown11</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10131">
+		<maybe_gun_type>unknown14</maybe_gun_type>
+		<maybe_gun_type>unknown15</maybe_gun_type>
+		<maybe_gun_type>unknown11</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9947">
+		<maybe_gun_type>unknown13</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10127">
+		<maybe_gun_type>unknown13</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9893">
+		<maybe_gun_type>unknown12</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10132">
+		<maybe_gun_type>unknown12</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<maybe_size>maybe_small</maybe_size>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9894">
+		<maybe_gun_type>unknown17</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10133">
+		<maybe_gun_type>unknown17</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9945">
+		<maybe_gun_type>unknown18</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10265">
+		<maybe_gun_type>unknown18</maybe_gun_type>
+		<maybe_shot_type>unknown13</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10304">
+		<maybe_gun_type>unknown19</maybe_gun_type>
+		<maybe_shot_type>unknown11</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9953">
+		<maybe_gun_type>unknown20</maybe_gun_type>
+		<maybe_shot_type>unknown11</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10142">
+		<maybe_gun_type>unknown22</maybe_gun_type>
+		<maybe_shot_type>unknown36</maybe_shot_type>
+		<unknown1>5</unknown1>
+		<unknown1>7</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9946">
+		<maybe_gun_type>unknown10</maybe_gun_type>
+		<maybe_shot_type>unknown3</maybe_shot_type>
+		<unknown1>4</unknown1>
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+</sound_bank>

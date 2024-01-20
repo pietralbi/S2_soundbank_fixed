@@ -1,0 +1,89 @@
+<sound_bank>
+	<sound_bank_event sound_event_name="unnamed_event_63">
+		<unknown1>29</unknown1>
+		<unknown1>14</unknown1>
+		<unknown1>25</unknown1>
+		<unknown1>24</unknown1>
+		<unknown1>20</unknown1>
+		<unknown1>19</unknown1>
+		<unknown1>18</unknown1>
+		<unknown1>6</unknown1>
+		<unknown1>5</unknown1>
+		<unknown1>8</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9976">
+		<unknown1>2</unknown1>
+		<unknown1>0</unknown1>
+		<unknown1>1</unknown1>
+		<unknown1>3</unknown1>
+		<unknown1>7</unknown1>
+		<unknown1>21</unknown1>
+		<unknown1>22</unknown1>
+		<unknown1>23</unknown1>
+		<unknown1>26</unknown1>
+		<unknown1>27</unknown1>
+		<unknown1>28</unknown1>
+		<unknown1>30</unknown1>
+		<unknown1>34</unknown1>
+		<unknown1>36</unknown1>
+		<unknown1>33</unknown1>
+		<unknown1>32</unknown1>
+		<unknown1>31</unknown1>
+		<unknown1>9</unknown1>
+		<unknown2>4</unknown2>
+		<unknown2>6</unknown2>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10187">
+		<unknown1>2</unknown1>
+		<unknown1>0</unknown1>
+		<unknown1>1</unknown1>
+		<unknown1>3</unknown1>
+		<unknown1>7</unknown1>
+		<unknown1>21</unknown1>
+		<unknown1>22</unknown1>
+		<unknown1>23</unknown1>
+		<unknown1>26</unknown1>
+		<unknown1>27</unknown1>
+		<unknown1>28</unknown1>
+		<unknown1>30</unknown1>
+		<unknown2>5</unknown2>
+		<unknown2>7</unknown2>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10039">
+		<unknown1>10</unknown1>
+		<unknown2>4</unknown2>
+		<unknown2>6</unknown2>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9975">
+		<unknown1>13</unknown1>
+		<unknown1>4</unknown1>
+		<unknown1>12</unknown1>
+		<unknown1>11</unknown1>
+		<unknown2>4</unknown2>
+		<unknown2>6</unknown2>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10207">
+		<unknown1>13</unknown1>
+		<unknown1>4</unknown1>
+		<unknown1>12</unknown1>
+		<unknown1>11</unknown1>
+		<unknown2>5</unknown2>
+		<unknown2>7</unknown2>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_9974">
+		<unknown1>15</unknown1>
+		<unknown1>16</unknown1>
+		<unknown1>17</unknown1>
+		<unknown1>18</unknown1>
+		<unknown2>4</unknown2>
+		<unknown2>6</unknown2>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_10191">
+		<unknown1>15</unknown1>
+		<unknown1>16</unknown1>
+		<unknown1>17</unknown1>
+		<unknown1>18</unknown1>
+		<unknown2>5</unknown2>
+		<unknown2>7</unknown2>
+	</sound_bank_event>
+</sound_bank>

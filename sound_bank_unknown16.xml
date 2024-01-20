@@ -1,0 +1,227 @@
+<sound_bank>
+	<sound_bank_event sound_event_name="music_frontend_default">
+		<unknown1>0</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_frontend_campaign_default">
+		<unknown1>1</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_frontend_campaign_gempei">
+		<unknown1>2</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_frontend_campaign_boshin">
+		<unknown1>3</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_credits">
+		<unknown1>4</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_credits_boshin">
+		<unknown1>4</unknown1>
+		<unknown6>16384</unknown6>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_multiplayer">
+		<unknown1>5</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_multiplayer_boshin">
+		<unknown1>5</unknown1>
+		<unknown6>16384</unknown6>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_loading_screen">
+		<unknown1>6</unknown1>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_loading_screen_boshin">
+		<unknown1>6</unknown1>
+		<unknown6>16384</unknown6>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_intro">
+		<unknown1>8</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_intro_boshin">
+		<unknown1>8</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_season_spring">
+		<unknown1>7</unknown1>
+		<unknown4>3</unknown4>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_season_summer">
+		<unknown1>7</unknown1>
+		<unknown4>0</unknown4>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_season_autumn">
+		<unknown1>7</unknown1>
+		<unknown4>2</unknown4>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_season_winter">
+		<unknown1>7</unknown1>
+		<unknown4>1</unknown4>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_season_spring_boshin">
+		<unknown1>7</unknown1>
+		<unknown4>3</unknown4>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_season_summer_boshin">
+		<unknown1>7</unknown1>
+		<unknown4>0</unknown4>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_season_autumn_boshin">
+		<unknown1>7</unknown1>
+		<unknown4>2</unknown4>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_season_winter_boshin">
+		<unknown1>7</unknown1>
+		<unknown4>1</unknown4>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_prebattle_naval">
+		<unknown1>14</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_prebattle_naval_boshin">
+		<unknown1>14</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_prebattle_land">
+		<unknown1>21</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_prebattle_land_boshin">
+		<unknown1>21</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_gempei_end_turn">
+		<unknown1>9</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_campaign_boshin_end_turn">
+		<unknown1>9</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_generals_speech_start">
+		<unknown1>10</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_generals_speech_middle">
+		<unknown1>11</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_generals_speech_end">
+		<unknown1>12</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_generals_speech_start_boshin">
+		<unknown1>10</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_generals_speech_middle_boshin">
+		<unknown1>11</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_generals_speech_end_boshin">
+		<unknown1>12</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_tension_naval">
+		<unknown1>15</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_tension_naval_boshin">
+		<unknown1>15</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_mobilise_naval">
+		<unknown1>16</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_mobilise_naval_boshin">
+		<unknown1>16</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_naval">
+		<unknown1>17</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_naval_boshin">
+		<unknown1>17</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_tension_land">
+		<unknown1>22</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_tension_land_boshin">
+		<unknown1>22</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_mobilise_land">
+		<unknown1>23</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_mobilise_land_boshin">
+		<unknown1>23</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_land">
+		<unknown1>24</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_land_boshin">
+		<unknown1>24</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_land_win">
+		<unknown1>25</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_land_lose">
+		<unknown1>26</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_land_draw">
+		<unknown1>27</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_naval_win">
+		<unknown1>18</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_naval_lose">
+		<unknown1>19</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_naval_draw">
+		<unknown1>20</unknown1>
+		<unknown5>0</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_land_win_boshin">
+		<unknown1>25</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_land_lose_boshin">
+		<unknown1>26</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_land_draw_boshin">
+		<unknown1>27</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_naval_win_boshin">
+		<unknown1>18</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_naval_lose_boshin">
+		<unknown1>19</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="music_battle_results_naval_draw_boshin">
+		<unknown1>20</unknown1>
+		<unknown5>1</unknown5>
+	</sound_bank_event>
+</sound_bank>

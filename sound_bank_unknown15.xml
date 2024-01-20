@@ -1,0 +1,15 @@
+<sound_bank>
+	<sound_bank_event sound_event_name="unnamed_event_63">
+		<unknown3>2</unknown3>
+		<unknown4>0</unknown4>
+		<unknown4>1</unknown4>
+	</sound_bank_event>
+	<sound_bank_event sound_event_name="unnamed_event_5">
+		<unknown3>4</unknown3>
+		<unknown3>1</unknown3>
+		<unknown3>3</unknown3>
+		<unknown3>0</unknown3>
+		<unknown4>0</unknown4>
+		<unknown4>1</unknown4>
+	</sound_bank_event>
+</sound_bank>
